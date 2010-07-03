@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3139
+
+I'll skip long talks about how this theme looks, take a look for yourself at http://leetless.de/vim.html
+
+Note that this theme (like all my themes) only defines colors for gvim, i.e. textmode/console colors are not being set. Feel free to contact me for questions and suggestions, for example via the methods mentioned on http://leetless.de
